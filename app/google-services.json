@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799267774985",
+    "project_id": "letsnote-65c41",
+    "storage_bucket": "letsnote-65c41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799267774985:android:e99bdca82b267d5bc38ed8",
+        "android_client_info": {
+          "package_name": "com.example.letsnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJMaLHXcrD187U89mlSMBQSu7TNUqiD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
